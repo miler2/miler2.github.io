@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Practica docker"
+title:  "Practica personalizada Miguel Angel"
 date:   2024-02-19 06:46:41 -0600
 categories: jekyll update
 ---
+
+Imágen super chula:
+![]({{ site.url }}/images/hurricane.png)
 
 # Terraform
 Para las practicas de terraform y los archivos .yml, he usado la extensión <u>"HashiCorp Terraform"</u>
