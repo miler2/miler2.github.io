@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Practica sobre Docker
+
+![]({{ site.url }}/images/docker.png)
