@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.landpage_text{
+    text-align: center;
+    color: aqua;
+    padding: 75px;
+    width: 900px;
+}
